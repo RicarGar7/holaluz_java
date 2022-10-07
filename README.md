@@ -19,3 +19,7 @@
 
 - Java 17
 - Springboot 2.7.3
+
+## Disclaimer
+
+I can't get docker to work on windows
