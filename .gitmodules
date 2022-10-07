@@ -1,0 +1,6 @@
+[submodule "cli"]
+	path = cli
+	url = git@github.com:RicarGar7/cli.git
+[submodule "kpi"]
+	path = kpi
+	url = git@github.com:RicarGar7/kpi.git
